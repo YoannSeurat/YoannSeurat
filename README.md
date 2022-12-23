@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheRetix
 - 👀 I’m interested in Computer science and Video games
 - 🌱 I’m currently learning C and Python
-- 📫 How to reach me : don't
+- 📫 How to reach me : e-mail me
 
 <!---
 TheRetix/TheRetix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
