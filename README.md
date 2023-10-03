@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheRetix
+- 👋 Hi, I’m @YoannSeurat
 - 👀 I’m interested in Computer science and Video games
 - 🌱 I’m currently learning C and Python
 - 📫 How to reach me : e-mail me
